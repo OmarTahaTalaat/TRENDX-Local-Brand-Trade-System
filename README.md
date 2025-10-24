@@ -58,14 +58,13 @@ TRENDX enables sellers to anticipate demand fluctuations by analyzing sales tren
 - **Database:** MongoDB (NoSQL)  
 - **Machine Learning:** Python (VGG16, Linear Regression)  
 - **Security:** Authentication, Access Control, Input Validation  
-- **Deployment:** Docker / Nginx / Cloud Hosting  
 
 ---
 
 ## 👥 Team & Roles
 
 - **Omar Taha Talaat** — Backend Developer & Cybersecurity Engineer  
-  (Responsible for database design, machine learning integration, and platform security)
+  (Responsible for database design, Back-End, machine learning integration, and platform security)
 
 - **Team Members:**  
   Collaborated on frontend development, UI/UX design, and data pipeline setup.
