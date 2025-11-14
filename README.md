@@ -75,7 +75,6 @@ TRENDX enables sellers to anticipate demand fluctuations by analyzing sales tren
 
 - Advanced recommendation engine based on user behavior  
 - AI-powered seller insights dashboard  
-- Mobile app version for Android and iOS  
 
 ---
 
